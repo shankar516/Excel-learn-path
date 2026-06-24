@@ -1,3 +1,3 @@
 #BASIC KNOWLEDGE OF EXCEL 
-# If you want check it 
+# Here kindly check it 
 # TRY TO LEARN AND MAKE A PROJECT 
